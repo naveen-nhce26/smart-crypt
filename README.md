@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in Local Host: ![App thumbnail](thumbnail.png)
+View your app in AI Studio: ![App thumbnail](thumbnail.png)
 
 ## Run Locally
 
